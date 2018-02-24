@@ -1,5 +1,6 @@
 build
-lib
+lib/lib
+lib/include
 .idea/
 node_modules
 /nbproject/private/
