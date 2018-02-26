@@ -3,4 +3,7 @@ lib/lib
 lib/include
 .idea/
 node_modules
+binding.gyp
+package-lock.json
+yarn.lock
 /nbproject/private/
